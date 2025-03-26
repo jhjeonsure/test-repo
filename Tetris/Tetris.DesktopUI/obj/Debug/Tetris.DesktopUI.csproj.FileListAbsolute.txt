@@ -1,0 +1,16 @@
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe.config
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.pdb
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.csprojResolveAssemblyReference.cache
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.Properties.Resources.resources
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.csproj.GenerateResource.Cache
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.exe
+C:\Temp\c#\CSHARP\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.pdb
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe.config
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.pdb
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.csprojResolveAssemblyReference.cache
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.Properties.Resources.resources
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.csproj.GenerateResource.Cache
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.exe
+C:\Temp\poppad\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.pdb

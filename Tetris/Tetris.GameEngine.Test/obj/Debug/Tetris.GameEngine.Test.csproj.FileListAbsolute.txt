@@ -1,0 +1,14 @@
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.pdb
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.dll
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.pdb
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.csprojResolveAssemblyReference.cache
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.dll
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.pdb
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.pdb
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.dll
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.pdb
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.csprojResolveAssemblyReference.cache
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.dll
+C:\Temp\poppad\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.pdb

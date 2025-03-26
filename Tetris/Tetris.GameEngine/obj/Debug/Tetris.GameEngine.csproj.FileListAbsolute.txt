@@ -1,0 +1,15 @@
+F:\GIT_Repo\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+F:\GIT_Repo\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.pdb
+F:\GIT_Repo\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.csproj.CoreCompileInputs.cache
+F:\GIT_Repo\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.dll
+F:\GIT_Repo\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.pdb
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.pdb
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.csprojResolveAssemblyReference.cache
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.dll
+C:\Temp\c#\CSHARP\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.pdb
+C:\Temp\poppad\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+C:\Temp\poppad\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.pdb
+C:\Temp\poppad\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.csprojResolveAssemblyReference.cache
+C:\Temp\poppad\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.dll
+C:\Temp\poppad\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.pdb
